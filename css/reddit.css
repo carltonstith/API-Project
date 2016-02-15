@@ -1,0 +1,18 @@
+body {
+	background-color: #ECF0F1;
+}
+
+h1.title-text {
+	color: #ECF0F1;
+}
+
+img {
+	margin: 20px;
+}
+
+.jumbotron {
+	background: url(https://digital.report/wp-content/uploads/2015/08/zaGsLhR.jpg) no-repeat center center;
+	background-size: cover;
+	margin-bottom: 0;
+	width: 100%;
+}

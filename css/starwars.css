@@ -1,0 +1,15 @@
+li {
+	list-style-type: none;
+}
+
+.jumbotron {
+	background: url(http://screenrant.com/wp-content/uploads/Star-Wars-7-Trailer-3-Darth-Vader-Helmet.jpg) no-repeat center center;
+	background-size: cover;
+	margin-bottom: 0;
+	width: 100%;
+}
+
+h1.title-text {
+	color: white;
+    text-shadow: 1px 1px 1px #ECF0F1;
+}

@@ -1,0 +1,15 @@
+.jumbotron {
+	background: url(https://i.ytimg.com/vi/RcJjbt0GG3U/maxresdefault.jpg) no-repeat center;
+	background-size: cover;
+	margin-bottom: 0;
+	width: 100%;
+}
+
+h1.title-text {
+	color: white;
+    text-shadow: 1px 1px 1px #2C3E50;
+}
+
+img {
+	margin: 20px;
+}
